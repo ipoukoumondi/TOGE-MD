@@ -36,7 +36,7 @@ global.location = "Africa, Gabon, Libreville" //ur location
 
 //new
 global.botname = '𝐓𝐎𝐆𝐄-𝐌𝐃' //ur bot name
-global.ownernumber = ['24102150169'] //ur owner number, dont add more than one
+global.ownernumber = ['242066328691'] //ur owner number, dont add more than one
 global.ownername = '𓆩𝐓𝐎𝐆𝐄𓆪 ✇ ◤✞𝐈𝐍𝐔𝐌𝐀𝐊𝐈' //ur owner name
 global.websitex = "https://toge-md-web.onrender.com"
 global.wagc = "https://whatsapp.com/channel/0029VaiuD4s4IBhI0fzbv40Z"
