@@ -58,7 +58,7 @@ global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 
-global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
+global.listv = ['!']
 global.tempatDB = 'database.json'
 
 global.limit = {
